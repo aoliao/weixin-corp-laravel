@@ -1,0 +1,18 @@
+{
+    "name": "tang/weixin-corp-laravel",
+    "description": "WeiXin Corp SDK Tools",
+    "license": "MIT",
+    "authors": [{
+        "name": "TangYanjun",
+        "email": "tyj@airoa.cn"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TgTech\\": "src/TgTech"
+        }
+    }
+}
